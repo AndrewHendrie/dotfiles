@@ -3,6 +3,10 @@ execute pathogen#infect()
 set background=dark
 colorscheme solarized
 let g:solarized_termtrans=1
+
+" move to beginning/end of line
+nnoremap B ^
+nnoremap E $
 " search as characters are entered
 set incsearch
 " highlight matches
