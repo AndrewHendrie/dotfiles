@@ -3,7 +3,10 @@ execute pathogen#infect()
 set background=dark
 colorscheme solarized
 let g:solarized_termtrans=1
-
+" search as characters are entered
+set incsearch
+" highlight matches
+set hlsearch
 " highlight current line
 set cursorline
 " Make Vim more useful
