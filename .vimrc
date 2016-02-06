@@ -4,6 +4,8 @@ set background=dark
 colorscheme solarized
 let g:solarized_termtrans=1
 
+" highlight current line
+set cursorline
 " Make Vim more useful
 set nocompatible
 " Use the OS clipboard by default (on versions compiled with `+clipboard`)
