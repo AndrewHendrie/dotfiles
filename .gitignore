@@ -2,6 +2,6 @@
 *
 # But not these files
 !*.vimrc
-!*.vim
+!*.vim/*
 !*.bashrc
 !.gitignore
