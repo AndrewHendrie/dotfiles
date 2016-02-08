@@ -4,6 +4,15 @@ set background=dark
 colorscheme solarized
 let g:solarized_termtrans=1
 
+" move to beginning/end of line
+nnoremap B ^
+nnoremap E $
+" search as characters are entered
+set incsearch
+" highlight matches
+set hlsearch
+" highlight current line
+set cursorline
 " Make Vim more useful
 set nocompatible
 " Use the OS clipboard by default (on versions compiled with `+clipboard`)
