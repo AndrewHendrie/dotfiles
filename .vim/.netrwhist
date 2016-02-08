@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/development/Desktop/Software/rails_app/app/views/layouts'
+let g:netrw_dirhist_2='/Users/development/Desktop/blog/app/assets/stylesheets/components'
+let g:netrw_dirhist_3='/Users/development/Desktop/custom_rails_app/app/views/layouts'
+let g:netrw_dirhist_4='/Users/development/.git'
